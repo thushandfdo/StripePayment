@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Yb3y+nzGyZ0UQciZdcihm88+ouz8ky9KFiEnUYBabl0=",
+  "Source": "StripePayment",
+  "BasePath": "_content/StripePayment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
